@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+b5329ac4c896ddfdb4027891bd837e66 CMakeFiles/serialcom
+f4d5472784ceb3faa815cdc16a6ad48a CMakeFiles/serialcom-complete
+faffba3ad9b1ddef1828e76bfce4da31 serialcom-prefix/src/serialcom-stamp/serialcom-build
+2bdf624ebe68386d646a5a952a8d1b09 serialcom-prefix/src/serialcom-stamp/serialcom-configure
+9e5aa60c9a0a42f4315ad873e340472c serialcom-prefix/src/serialcom-stamp/serialcom-download
+df6b7815fd60f645534294d29b325cbf serialcom-prefix/src/serialcom-stamp/serialcom-install
+4575d5e09176f68ec25141e1c888adb7 serialcom-prefix/src/serialcom-stamp/serialcom-mkdir
+00d9dd70523bb55793555d81f2d2e310 serialcom-prefix/src/serialcom-stamp/serialcom-patch
+b8c14a2e88187fad7666f9921782406b serialcom-prefix/src/serialcom-stamp/serialcom-test
+2a648c19c1fa180b997f34a549a3b97b serialcom-prefix/src/serialcom-stamp/serialcom-update

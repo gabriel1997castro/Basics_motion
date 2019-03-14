@@ -1,0 +1,14 @@
+# Target labels
+ serialcom
+# Source files and their labels
+/home/work/Basics_motion/build/CMakeFiles/serialcom
+/home/work/Basics_motion/build/CMakeFiles/serialcom.rule
+/home/work/Basics_motion/build/CMakeFiles/serialcom-complete.rule
+/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-install.rule
+/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-mkdir.rule
+/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-download.rule
+/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-update.rule
+/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-patch.rule
+/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-configure.rule
+/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-build.rule
+/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-test.rule

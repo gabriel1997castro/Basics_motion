@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/work/Basics_motion/build/CMakeFiles/serialcom"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/CMakeFiles/serialcom.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/CMakeFiles/serialcom-complete.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-install.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-mkdir.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-download.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-update.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-patch.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-configure.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-build.rule"
+		},
+		{
+			"file" : "/home/work/Basics_motion/build/serialcom-prefix/src/serialcom-stamp/serialcom-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"serialcom"
+		],
+		"name" : "serialcom"
+	}
+}

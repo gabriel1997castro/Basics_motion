@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/work/Basics_motion/src/serialTest.cpp
+serialcom.h
+-
+
+serialcom-src/include/serialcom.h
+termios.h
+-
+string.h
+-
+unistd.h
+-
+sys/ioctl.h
+-
+

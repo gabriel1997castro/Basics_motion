@@ -1,0 +1,4 @@
+/home/work/Basics_motion/build/CMakeFiles/edit_cache.dir
+/home/work/Basics_motion/build/CMakeFiles/rebuild_cache.dir
+/home/work/Basics_motion/build/CMakeFiles/serialTest.dir
+/home/work/Basics_motion/build/CMakeFiles/serialcom.dir

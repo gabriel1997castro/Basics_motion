@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "CMakeFiles/serialcom"
   "CMakeFiles/serialcom-complete"
   "serialcom-prefix/src/serialcom-stamp/serialcom-install"
@@ -12,6 +12,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/serialcom.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang)
+  INCLUDE(CMakeFiles/serialcom.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

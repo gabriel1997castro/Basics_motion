@@ -1,1 +1,1 @@
-cmd='/usr/bin/cmake;-GUnix Makefiles;/home/work/Basics_motion/build/serialcom-src'
+cmd='/usr/bin/cmake;-GUnix Makefiles;/home/mobile1/Basics_motion/build/serialcom-src'

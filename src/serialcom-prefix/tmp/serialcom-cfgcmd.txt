@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-GUnix Makefiles;/home/mobile1/Basics_motion/src/serialcom-src'

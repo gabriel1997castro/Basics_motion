@@ -6,8 +6,14 @@
 
 #IncludeRegexTransform: 
 
-/home/work/Basics_motion/src/serialTest.cpp
+/home/mobile1/Basics_motion/src/serialTest.cpp
+stdio.h
+-
+string.h
+-
 serialcom.h
+-
+unistd.h
 -
 
 serialcom-src/include/serialcom.h

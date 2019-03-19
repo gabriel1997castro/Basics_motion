@@ -3,9 +3,8 @@
 #include "serialcom.h"
 
 int main(){
-    SERIALPORTCONFIG serialPortConfig;
     int err;
-    char* data= "#0 P1600\r\n";
+    char* data= "#0 P1600\r\n"
 
     // Init the serial port
     if((err = serialcom_init(&serialPortConfig, 1, "/dev/ttyS0", 115200)) != SERIALCOM_SUCCESS)

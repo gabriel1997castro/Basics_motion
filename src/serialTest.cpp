@@ -1,6 +1,5 @@
 
 #include <serialcom.h>
-#include <stdio.h>
 
 int main()
 {
@@ -28,7 +27,6 @@ int main()
     {
 	aux = command[i];
 	data = &aux;
-    printf("%c", (unsigned char*) &data);
 	serialcom_sendbyte(&serialPortConfig, (unsigned char*) &data);
     usleep(5);
     }

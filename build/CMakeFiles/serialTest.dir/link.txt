@@ -1,1 +1,1 @@
-/usr/bin/c++    -std=c++14 -g   CMakeFiles/serialTest.dir/src/serialTest.cpp.o  -o serialTest  -L/home/work/Basics_motion/build/serialcom-src/build -rdynamic -lserialcomlib -pthread -Wl,-rpath,/home/work/Basics_motion/build/serialcom-src/build 
+/usr/bin/c++    -std=c++14 -g   CMakeFiles/serialTest.dir/src/serialTest.cpp.o  -o serialTest -rdynamic serialcom-src/build/libserialcomlib.so -pthread -Wl,-rpath,/home/work/Basics_motion/build/serialcom-src/build 

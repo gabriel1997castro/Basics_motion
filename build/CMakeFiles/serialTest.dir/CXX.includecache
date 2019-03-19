@@ -9,6 +9,8 @@
 /home/work/Basics_motion/src/serialTest.cpp
 serialcom.h
 -
+stdio.h
+-
 
 serialcom-src/include/serialcom.h
 termios.h
